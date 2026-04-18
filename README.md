@@ -1,4 +1,4 @@
-This is a simple "Inventory System" code that uses "Microsoft Access" to store, update, or delete data.
+This is a simple "Inventory System" code that uses "Microsoft Access" to store, update, or delete data, built by VB.NET.
 The app has some features like:
   1. Displaying the Inventory.
   2. Generating a "Flowchart" based on the data.
