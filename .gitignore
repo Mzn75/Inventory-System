@@ -1,0 +1,15 @@
+﻿# Visual Studio cache/junk
+.vs/
+*.slnx
+*.suo
+*.user
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Other temp files
+*.log
+*.tmp
