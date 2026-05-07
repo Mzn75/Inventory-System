@@ -7,4 +7,5 @@ An application to manage inventory using an Access database file for data storag
 - Store data securely in an Access file  
 - Simple and user-friendly interface  
 - Search and filter functionality
-- Export & Import from Excel sheets  
+- Export & Import from Excel sheets
+- Customizable Stock Levels
