@@ -1,6 +1,6 @@
 # Simple Inventory System
 An application to manage inventory using an Access database file for data storage.
-![App Screenshot](Screenshot_inventorySystem.png)
+![App Screenshot](Screenshot.png)
 
 ## Features
 - Add, update, and delete inventory items  
